@@ -1,4 +1,4 @@
-
+Enhance AppCleaner for macOS with AppCleaner for macOS vip Automation - app-uninstaller and quick-launch, the #1 automation. Includes app-uninstaller and quick-launch for a
 
 
 
